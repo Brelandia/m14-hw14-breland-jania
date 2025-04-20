@@ -2,6 +2,17 @@
 
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
 
+## Bootstrap Components Used
+
+1. **Navbar**
+   - Responsive navbar with mobile toggle functionality.
+
+2. **Cards**
+   - Used in the “About Me” and “Hobbies” sections to structure content.
+
+3. **Button**
+   - “Back to top” button in the Career section.
+   
 &nbsp;
 ## Background
 
